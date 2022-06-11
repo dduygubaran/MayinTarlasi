@@ -5,7 +5,7 @@ public class MayinTarlasi {
 
     int rowNumber, columnNumber;
     int [][] minedMap;  // Mayınlı Harita
-    int [][] gameBoard; // Kullanıcının kulandığı oyun tahtası
+    int [][] gameBoard; // Kullanıcının kullandığı oyun tahtası
     boolean game = true;
 
     Random rand = new Random();
